@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="coop.palantetech.showsoftcreditsinsummary" type="module">
+  <file>showsoftcreditsinsummary</file>
+    <name>Show Soft Credits in Contribution Tab</name>
+    <description>Show soft creditee on the contribution summary tab instead of premiums.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Jon Goldberg</author>
+    <email>jon@palantetech.coop</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">http://FIXME</url>
+    <url desc="Documentation">http://FIXME</url>
+    <url desc="Support">http://FIXME</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2016-01-14</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.6</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Showsoftcreditsinsummary</namespace>
+  </civix>
+</extension>
